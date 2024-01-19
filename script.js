@@ -12,7 +12,9 @@ const Load = ()=>{
 
 var topBanner=["img/team.jpg",
 	"https://dayshadevops.co.uk/wp-content/uploads/it-ideas.jpg",
-	"img/course-1.jpg"];
+        "https://www.lifewire.com/thmb/wV12830msiJ9sKuqIYeyLU5RLl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/98033116-56a1ad693df78cf7726cfaba.jpg",
+	"img/course-1.jpg",
+	"https://i.redd.it/msl53vqmf4xb1.jpg"];
 
 var random=Math.floor(Math.random() * topBanner.length);
 
