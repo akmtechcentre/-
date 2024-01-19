@@ -11,7 +11,7 @@ const Load = ()=>{
 
 
 var topBanner=["img/team.jpg",
-	"img/events-1.jpg",
+	"https://dayshadevops.co.uk/wp-content/uploads/it-ideas.jpg",
 	"img/course-1.jpg"];
 
 var random=Math.floor(Math.random() * topBanner.length);
