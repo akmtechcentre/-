@@ -1,1 +1,1 @@
-shop = '[{"product" : " ","amount": 1600,"img":"img/lap_1.jpg"},{"product" : " ","amount": 1600,"img":"img/lap_2.jpg"},{"product" : " ","amount": 1600,"img":"img/lap_3.png"},{"product" : " ","amount": 1600,"img":"img/lap_4.png"}]';
+shop = '[{"product" : "Asus laptop","amount": 1600,"img":"img/lap_1.jpg"},{"product" : "HP laptop","amount": 1600,"img":"img/lap_2.jpg"},{"product" : "Hp laptop","amount": 1600,"img":"img/lap_3.png"},{"product" : "Dell laptop","amount": 1600,"img":"img/lap_4.png"}]';
